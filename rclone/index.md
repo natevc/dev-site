@@ -102,7 +102,7 @@ Rclone helps you:
   * {{< icon "fab fa-github" >}} [GitHub project page for source and bug tracker](https://github.com/rclone/rclone)
   * {{< icon "fa fa-comments" >}} [Rclone Forum](https://forum.rclone.org)
   * {{< icon "fas fa-cloud-download-alt" >}}[Downloads](/downloads/)
-  * [dev.natevc.com Rclone Services Privacy Policy](./privacy)
+  * [dev.natevc.com Rclone Services Privacy Policy](https://dev.natevc.com/rclone/privacy)
 
 ## Attribution
 
