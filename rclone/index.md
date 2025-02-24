@@ -1,13 +1,12 @@
 ---
-title: "Rclone"
+title: "dev.natevc.com"
 description: "Rclone syncs your files to cloud storage: Google Drive, S3, Swift, Dropbox, Google Cloud Storage, Azure, Box and many more."
 type: page
 notoc: true
 ---
 
 # Rclone syncs your files to cloud storage
-
-{{< img width="50%" src="/dev-natevc-logo.svg" alt="logo" style="float:right; padding: 5px;" >}}
+![logo](/dev-natevc-logo.svg)
 
 - About rclone
 - What can rclone do for you?
