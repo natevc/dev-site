@@ -17,13 +17,13 @@ This website and its owners take a proactive approach to user privacy and ensure
 
 ## Use of Cookies ##
 
-This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user's computer / device.
+This website may use cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user's computer / device.
 
 Cookies are small files saved to the user's computers hard drive that track, save and store information about the user's interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.
 
 Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read [Google's privacy policy here](https://www.google.com/privacy.html) for further information.
+This website may use tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read [Google's privacy policy here](https://www.google.com/privacy.html) for further information.
 
 Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
@@ -55,7 +55,7 @@ This website may use social sharing buttons which help share web content directl
 
 ## Use of Cloud API User Data ##
 
-Rclone is a command-line program to manage files on cloud storage. Its sole purpose is to access and manipulate user content in the supported cloud storage systems from a local machine of the end user. For accessing the user content via the cloud provider API, Rclone uses authentication mechanisms, such as OAuth or HTTP Cookies, depending on the particular cloud provider offerings. Use of these authentication mechanisms and user data is governed by the privacy policies mentioned in the [Resources & Further Information](/privacy/#resources-further-information) section and followed by the privacy policy of Rclone.
+Rclone is a command-line program to manage files on cloud storage. Its sole purpose is to access and manipulate user content in the supported cloud storage systems from a local machine of the end user. For accessing the user content via the cloud provider API, Rclone uses authentication mechanisms, such as OAuth or HTTP Cookies, depending on the particular cloud provider offerings. Use of these authentication mechanisms and user data is governed by the privacy policies mentioned in the [Resources & Further Information](#resources-further-information) section and followed by the privacy policy of Rclone.
 
 * Rclone provides the end user with access to their files available in a storage system associated by the authentication credentials via the publicly exposed API of the storage system.
 * Rclone allows storing the authentication credentials on the user machine in the local configuration file.
